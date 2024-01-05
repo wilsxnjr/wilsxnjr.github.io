@@ -150,7 +150,7 @@ main {
 }
 
 .introducao .redes-nav img {
-    width: 37px;
+    width: 40px;
 }
 
 span {
@@ -209,8 +209,8 @@ span {
 
     .cv {
         align-self: center;
-        padding: 0.5rem 1.5rem;
-        font-size: 0.9rem;
+        padding: 0.7rem 1.7rem;
+        font-size: 1rem;
     }
 
     .introducao .redes-nav img {
